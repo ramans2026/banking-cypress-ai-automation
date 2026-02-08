@@ -1,0 +1,16 @@
+stages:
+  - deploy-staging
+  - deploy-prod
+
+deploy_staging:
+  stage: deploy-staging
+  script:
+    - echo "Deploying to Staging"
+  only:
+    - main
+
+deploy_prod:
+  stage: deploy-prod
+  script:
+    - echo "Deploying to Production"
+  when: manual
