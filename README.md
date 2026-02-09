@@ -28,7 +28,6 @@ Deposit
 
 Withdraw
 
-Transaction history
 
 **Demo App Used **
 URL:
