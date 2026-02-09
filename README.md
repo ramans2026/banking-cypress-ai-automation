@@ -1,5 +1,4 @@
-# banking-cypress-ai-automation
-Project Title - AI-Assisted Cypress Automation for Banking App
+# AI-Assisted Cypress Automation for Banking App
 
 **Tools Used :**
 
@@ -30,3 +29,7 @@ Deposit
 Withdraw
 
 Transaction history
+
+**Demo App Used **
+URL:
+https://www.globalsqa.com/angularJs-protractor/BankingProject/
