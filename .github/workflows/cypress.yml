@@ -22,12 +22,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Start mock API
-        run: |
-          cd mock-api
-          npm install
-          node server.js &
-          sleep 5
-
       - name: Run Cypress tests
         run: npx cypress run
