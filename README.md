@@ -32,3 +32,4 @@ Withdraw
 **Demo App Used **
 URL:
 https://www.globalsqa.com/angularJs-protractor/BankingProject/
+# sdet-banking-automation-pipeline
